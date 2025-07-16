@@ -1,3 +1,2 @@
-welcome
-to
-root
+welcome to trichy
+hello world
